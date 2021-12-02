@@ -1,0 +1,16 @@
+D:\Universitate\Anul-III\Inginerie Software\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.exe
+D:\Universitate\Anul-III\Inginerie Software\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.deps.json
+D:\Universitate\Anul-III\Inginerie Software\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.runtimeconfig.json
+D:\Universitate\Anul-III\Inginerie Software\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.runtimeconfig.dev.json
+D:\Universitate\Anul-III\Inginerie Software\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.dll
+D:\Universitate\Anul-III\Inginerie Software\Restaurant\Restaurant\bin\Debug\net5.0\ref\Restaurant.dll
+D:\Universitate\Anul-III\Inginerie Software\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.pdb
+D:\Universitate\Anul-III\Inginerie Software\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.csproj.AssemblyReference.cache
+D:\Universitate\Anul-III\Inginerie Software\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universitate\Anul-III\Inginerie Software\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.AssemblyInfoInputs.cache
+D:\Universitate\Anul-III\Inginerie Software\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.AssemblyInfo.cs
+D:\Universitate\Anul-III\Inginerie Software\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.csproj.CoreCompileInputs.cache
+D:\Universitate\Anul-III\Inginerie Software\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.dll
+D:\Universitate\Anul-III\Inginerie Software\Restaurant\Restaurant\obj\Debug\net5.0\ref\Restaurant.dll
+D:\Universitate\Anul-III\Inginerie Software\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.pdb
+D:\Universitate\Anul-III\Inginerie Software\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.genruntimeconfig.cache
